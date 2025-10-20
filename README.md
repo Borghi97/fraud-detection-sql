@@ -1,7 +1,5 @@
 # Fraud Detection System — SQL + Python API
 
-                                  © 2025 André Borghi — Data & Software Engineering
-
 A complete anti-fraud pipeline combining **SQL analytics** and a **real-time Python API** to identify potentially fraudulent credit card transactions.
 
 ---
